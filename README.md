@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on cloud computing for genomic data analysis and collaboration.
 - 📫 How to reach me ronaldshiundu@gamil.com/ Github.com/NabongoMumia (github.com)
-- 😄 Pronouns: I'm
+- 😄 Pronouns: I'm an AI Enthusiast and  Data science & ML practitioner
 - ⚡ Fun fact: I’m currently subscribing to a financial technology magazine to learn more about the industry’s ongoing trends. 
 
 <!---
